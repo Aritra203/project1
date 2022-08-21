@@ -1,1 +1,0 @@
-This is a simple voting program to check age eligibilty for citizens to vote in India.
